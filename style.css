@@ -1,0 +1,21 @@
+body{
+  background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url("pic1.jpg");
+  background-size: cover;
+  background-position: center;
+	background-attachment: fixed;
+}
+.login-box{
+  max-width: 700px;
+  float: none;
+  margin: 150px auto;
+}
+.login-left{
+  background-color: #ffffff;
+  padding: 30px;
+  opacity:.6;
+}
+.login-right{
+  background-color: #ffffff;
+  opacity: .5;
+  padding:30px;
+}
